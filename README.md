@@ -1,6 +1,6 @@
-# flutter_covid19_onboarding_ui
+# Flutter Covid 19 Prevention Onboarding App UI
 
-A new Flutter project.
+Flutter Onboarding App created to display Covid 19 prevention tips.gi
 
 ## Getting Started
 
